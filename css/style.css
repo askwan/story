@@ -1,0 +1,35 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-size: 14px;
+}
+html,body{
+  position: relative;
+  width: 100%;
+  height: 100%;
+  background-color: #fff;
+}
+#scroll{
+  /* background-image: url(http://pic.58pic.com/58pic/14/87/24/49y58PICj4N_1024.jpg); */
+  height: 100%;
+  width:100%;
+  position: relative;
+  background-size: 100% 100%;
+  overflow: hidden;
+  
+  color: #333;
+}
+.content{
+  padding: 20px 8px;
+  width: 100%
+}
+.title{
+  font-weight: bold;
+  text-indent:0rem !important;
+}
+.content p{
+  margin-bottom: 15px;
+  text-align: justify;
+  text-indent:2rem;
+}
