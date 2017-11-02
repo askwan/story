@@ -10,6 +10,10 @@ html,body{
   height: 100%;
   background-color: #F2F2F2;
 }
+body {
+  font-family: -apple-system, BlinkMacSystemFont, "PingFang SC","Helvetica Neue",STHeiti,"Microsoft Yahei",Tahoma,Simsun,sans-serif;
+
+}
 #scroll{
   /* background-image: url(http://pic.58pic.com/58pic/14/87/24/49y58PICj4N_1024.jpg); */
   height: 100%;
